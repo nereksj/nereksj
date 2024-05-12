@@ -17,7 +17,7 @@
   </samp>
 </p>
 
-<a href="kereneuro0x@gmail.com">Email</a> | <a href="">Linkedin</a>
+<a href="mailto:kereneuro0x@gmail.com">Email</a> | <a href="">Linkedin</a>
 
 
 ![Rian Stats](https://github-readme-stats.vercel.app/api?username=nereksj&show_icons=true&bg_color=00000000&title_color=f9f9f9&text_color=f9f9f9&icon_color=f9f9f9&border_color=969393&locale=en)
