@@ -24,7 +24,5 @@
 
 <img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereksj&layout=compact&theme=transparent&border=none&text_color=f9f9f9&title_color=f9f9f9" />
 
-<img align="right" width="100" alt="Shimarin" src="https://pbs.twimg.com/media/F7x16O0XIAAoWWb.jpg"/>
-
   
 
