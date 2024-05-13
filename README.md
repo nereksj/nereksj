@@ -10,7 +10,7 @@
 
 <samp>
   
-- I’m currently learning Java, SpringBoot, AWS, and Docker.
+- I’m currently learning Java, SpringBoot, AWS and Docker.
 - I enjoy exploring new technologies to solve real-life problems.
 - Sometimes I write articles on **[my blog](https://nerek.bearblog.dev)**.
   
